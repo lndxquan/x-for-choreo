@@ -1,7 +1,7 @@
 FROM node:latest
 
 # 设置各变量
-ARG WSPATH=argo \
+ARG WSPATH=choreo \
     UUID=9b50bafa-705e-4566-987c-171e52acdf5d \
     NEZHA_SERVER= \
     NEZHA_PORT= \
@@ -10,7 +10,7 @@ ARG WSPATH=argo \
     WEB_DOMAIN=choreo.dhhy.eu.org \
     ARGO_DOMAIN=choreo-ws.dhhy.eu.org \
     SSH_DOMAIN=choreo-ssh.dhhy.eu.org \
-    ARGO_AUTH={"AccountTag":"871910558cbfa0fb29b2910767898b92","TunnelSecret":"+wmiQ7MNmIDs+GGViaF0botjIlZ/RJAdj58ncXGz8hg=","TunnelID":"b857b1a0-b7d0-49c6-8e4c-26533e1be3a6"} \
+    ARGO_AUTH={"AccountTag":"871910558cbfa0fb29b2910767898b92","TunnelSecret":"On+Q+pMaksjs134fw64+xSP/LlpWA9WTsgdWQkPDeME=","TunnelID":"b5f69d0e-0365-4aad-b222-cfa831d98022"} \
     WEB_USERNAME=admin \
     WEB_PASSWORD=HUbin00..001122
 
