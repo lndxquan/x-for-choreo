@@ -7,10 +7,10 @@ ARG WSPATH=argo \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN=x-for-choreo.dhhy.eu.org \
-    ARGO_DOMAIN=x-for-choreo-ws.dhhy.eu.org \
-    SSH_DOMAIN=x-for-choreo-ssh.dhhy.eu.org \
-    ARGO_AUTH={"AccountTag":"871910558cbfa0fb29b2910767898b92","TunnelSecret":"TFuwaOmI7a4vBo74kE0c1sm102aNhQgm9nOZv0f4a7k=","TunnelID":"ce697f01-dc18-4103-933c-d2c73aebbf64"} \
+    WEB_DOMAIN=choreo.dhhy.eu.org \
+    ARGO_DOMAIN=choreo-ws.dhhy.eu.org \
+    SSH_DOMAIN=choreo-ssh.dhhy.eu.org \
+    ARGO_AUTH={"AccountTag":"871910558cbfa0fb29b2910767898b92","TunnelSecret":"+wmiQ7MNmIDs+GGViaF0botjIlZ/RJAdj58ncXGz8hg=","TunnelID":"b857b1a0-b7d0-49c6-8e4c-26533e1be3a6"} \
     WEB_USERNAME=admin \
     WEB_PASSWORD=HUbin00..001122
 
