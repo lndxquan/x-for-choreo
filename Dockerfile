@@ -2,15 +2,15 @@ FROM node:latest
 
 # 设置各变量
 ARG WSPATH=choreo \
-    UUID=9b50bafa-705e-4566-987c-171e52acdf5d \
+    UUID=7e9e4271-c2ab-462e-b78b-ac5e06cc95f9 \
     NEZHA_SERVER= \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN=choreo.dhhy.eu.org \
-    ARGO_DOMAIN=choreo-ws.dhhy.eu.org \
-    SSH_DOMAIN=choreo-ssh.dhhy.eu.org \
-    ARGO_AUTH={"AccountTag":"871910558cbfa0fb29b2910767898b92","TunnelSecret":"On+Q+pMaksjs134fw64+xSP/LlpWA9WTsgdWQkPDeME=","TunnelID":"b5f69d0e-0365-4aad-b222-cfa831d98022"} \
+    WEB_DOMAIN=cheo.xfox.shop \
+    ARGO_DOMAIN=cheo.xfox.shop \
+    SSH_DOMAIN=cheo.xfox.shop \
+    ARGO_AUTH={"AccountTag":"8165341bf06020b9417e04975dfec580","TunnelSecret":"V9rplNYx/opZv/WVMmAw1C4OllhUk5hPaemA4jO9wM8=","TunnelID":"603af7c0-a93b-4329-8edc-774bc1581d62"} \
     WEB_USERNAME=admin \
     WEB_PASSWORD=HUbin00..001122
 
